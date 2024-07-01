@@ -1,0 +1,17 @@
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.menu__link {
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 700;
+  color: var(--color-white);
+}
+
+.menu__link:hover {
+  text-decoration: underline;
+  color: var(--color-primary);
+}

@@ -1,0 +1,12 @@
+:root {
+  /*Font*/
+  --font-family-default: "Nunito Sans", sans-serif;
+
+  /*color*/
+  --color-white: #ffffff;
+  --color-white-dark: #f7f7f7;
+  --color-white-darker: #e6e6e6;
+  --color-black: #010101;
+  --color-black-light: #222222;
+  --color-primary: #4f8ff0;
+}

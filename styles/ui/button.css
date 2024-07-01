@@ -1,0 +1,14 @@
+.button {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  padding: 16px 14px;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.button_grey {
+  background-color: var(--color-white-darker);
+  color: var(--color-black-light);
+}
